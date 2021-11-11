@@ -27,3 +27,8 @@ Several shells are usualy available on any UNIX system, each with its own streng
 Different users may use differnet shells, initially your system adminsitrator will supply a default shell, which can be overridden or changed. The most commonly avaliable shells are Bourne shell (sh), c shell(csh) korn shell(ksh) TC shell(tcsh) Bourne Again Shell(bash)
 
 Each shell also includes its own programming lanaguage. Command files called "shell scripts" are used to acoomplish a series of tasks.
+
+
+Contributor
+
+Temi temiola
