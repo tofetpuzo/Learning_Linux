@@ -18,4 +18,12 @@ Enforcing file access permissions
 
 
 SHELL
-Whenever you login to a UNIX system you are placed in a shell program. The shell's prompt is usually visi
+Whenever you login to a UNIX system you are placed in a shell program. The shell's prompt is usually visibke at the cursor's position on your screen. To get your work done, you enter commands at this prompt.
+
+The shell is a command interpreter; it takes each command and passes it to the operating system kernel to be acted upon. It then displays the results of this operation to your screen.
+
+Several shells are usualy available on any UNIX system, each with its own strengths and weaknesses.
+
+Different users may use differnet shells, initially your system adminsitrator will supply a default shell, which can be overridden or changed. The most commonly avaliable shells are Bourne shell (sh), c shell(csh) korn shell(ksh) TC shell(tcsh) Bourne Again Shell(bash)
+
+Each shell also includes its own programming lanaguage. Command files called "shell scripts" are used to acoomplish a series of tasks.
