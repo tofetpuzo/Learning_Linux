@@ -31,4 +31,4 @@ Each shell also includes its own programming lanaguage. Command files called "sh
 
 Contributor
 
-Temi temiola
+Temi Temiola
