@@ -29,6 +29,19 @@ Different users may use differnet shells, initially your system adminsitrator wi
 Each shell also includes its own programming lanaguage. Command files called "shell scripts" are used to acoomplish a series of tasks.
 
 
+What is Root?
+There are 3 types of root on Linux system
+
+1. Root Account: root is an account or a username on Linux machine and it is the most powerful account which has access to all commands and files.
+
+2. Root as /: This is the very first directory in Linux is also refered as root directory.
+
+3. Root home directory: the root user account also has a directory located as the /root
+
+
+
+
+
 Contributor
 
 Temi Temiola
